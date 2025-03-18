@@ -12,6 +12,14 @@ Puja Bloom is a Visual Studio / Visual Studio Code Theme designed for programmer
 
 ![Visual Studio](./vs/PujaBloom/screenshot.png)
 
+## Install
+
+- [Visual Studio](https://marketplace.visualstudio.com/items?itemName=fluentmoheshwar.PujaBloom)
+
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=fluentmoheshwar.puja-bloom)
+
+- [Open VSX (for VSCodium, Project IDX, Theia, etc)](https://open-vsx.org/extension/fluentmoheshwar/puja-bloom)
+
 ## Recommended Settings
 
 ### For Visual Studio Code
