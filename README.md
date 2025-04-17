@@ -45,3 +45,5 @@ Puja Bloom is a Visual Studio / Visual Studio Code Theme designed for programmer
 - `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
 - `themes/Puja Bloom.json` - the color theme definition file.
 - `vs/PujaBloom/` this folder contains visual studio files
+
+Made with ❤️ in 🇧🇩
