@@ -2,5 +2,6 @@
 Initial Release
 
 - v1.0.0
-Updated colors for better accessiblity.
+Stable Release
+Updated colors for better accessibility.
 Fixed Solution Explorer
