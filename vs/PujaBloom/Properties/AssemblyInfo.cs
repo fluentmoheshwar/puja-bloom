@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("PujaBloom")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Puja Bloom is a Visual Studio Theme designed for programmers with accessibility and cuteness in mind.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Moheshwar Amarnath Biswas")]
 [assembly: AssemblyProduct("PujaBloom")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("Moheshwar Amarnath Biswas")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
