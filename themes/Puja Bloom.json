@@ -97,40 +97,21 @@
   },
   "tokenColors": [
     {
-      "scope": ["comment", "string.comment"],
-      "settings": {
-        "foreground": "#381717",
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
-      "settings": {
-        "foreground": "#250230"
-      }
-    },
-    {
-      "scope": "string.template.js",
+      "scope": "string.template",
       "settings": {
         "foreground": "#E5C07B"
       }
     },
     {
-      "scope": "meta.template.expression.js",
+      "scope": "meta.template.expression",
       "settings": {
-        "foreground": "#ABB2BF"
+        "foreground": "#6d6d6d"
       }
     },
     {
       "scope": ["string.embedded.begin", "string.embedded.end"],
       "settings": {
         "foreground": "#C678DD"
-      }
-    },
-    {
-      "scope": "string.embedded",
-      "settings": {
-        "foreground": "#98C379"
       }
     },
     {
@@ -472,12 +453,6 @@
       }
     },
     {
-      "scope": "comment",
-      "settings": {
-        "foreground": "#625576"
-      }
-    },
-    {
       "scope": "string",
       "settings": {
         "foreground": "#E07D13"
@@ -774,8 +749,6 @@
         "entity.other.inherited-class.js",
         "meta.interface.js",
         "entity.other.inherited-class.jsx",
-        "meta.interface.jsx",
-        "entity.other.inherited-class.jsx",
         "meta.interface.jsx"
       ],
       "settings": {
@@ -885,7 +858,7 @@
     {
       "scope": "string",
       "settings": {
-        "foreground": "#089773"
+        "foreground": "#0AA88A"
       }
     },
     {
@@ -897,13 +870,8 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#2f6605"
-      }
-    },
-    {
-      "scope": "punctuation.definition.comment",
-      "settings": {
-        "foreground": "#7F6E99"
+        "foreground": "#4caf4fc9",
+        "fontStyle": "bold italic"
       }
     }
   ]
