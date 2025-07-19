@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="fluentmoheshwar.PujaBloom" Version="0.0.1" Language="en-US" Publisher="Moheshwar Amarnath Biswas" />
+        <Identity Id="fluentmoheshwar.PujaBloom" Version="1.0.0" Language="en-US" Publisher="Moheshwar Amarnath Biswas" />
         <DisplayName>Puja Bloom</DisplayName>
         <Description xml:space="preserve">Puja Bloom is a Visual Studio Theme designed for programmers with accessibility and cuteness in mind.</Description>
         <MoreInfo>https://github.com/fluentmoheshwar/puja-bloom</MoreInfo>
