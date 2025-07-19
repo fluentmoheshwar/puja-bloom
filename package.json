@@ -2,6 +2,7 @@
   "name": "puja-bloom",
   "displayName": "Puja Bloom",
   "description": "Puja Bloom is a Visual Studio Code Theme designed for programmers with accessibility and cuteness in mind.",
+  "type": "module",
   "version": "0.0.2",
   "icon": "icon.png",
   "publisher": "fluentmoheshwar",

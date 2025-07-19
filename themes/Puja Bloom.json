@@ -3,11 +3,14 @@
   "type": "dark",
   "name": "Puja Bloom",
   "colors": {
+    "foreground": "#ffffff",
+    "panel.background": "#17141f",
+    "panel.border": "#181a1f",
     "activityBar.background": "#17141f",
     "activityBar.foreground": "#B53471",
     "activityBar.inactiveForeground": "#c58282",
     "activityBarBadge.background": "#ec0672",
-    "activityBarBadge.foreground": "#fff",
+    "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#ffffff",
     "badge.foreground": "#000000",
     "breadcrumb.activeSelectionForeground": "#ff0077",
@@ -16,13 +19,13 @@
     "breadcrumb.foreground": "#C0C0C0",
     "breadcrumbPicker.background": "#151920",
     "button.background": "#b534705d",
-    "button.foreground": "#fff",
+    "button.foreground": "#ffffff",
     "button.hoverBackground": "#ae66b618",
     "checkbox.border": "#3b4048",
     "debugToolBar.background": "#151920",
     "diffEditor.insertedTextBackground": "#00809b33",
     "dropdown.background": "#0a0608",
-    "dropdown.border": "#fff",
+    "dropdown.border": "#ffffff",
     "editor.background": "#17141f",
     "editor.findMatchHighlightBackground": "default",
     "editor.foreground": "#ffffff",
@@ -61,7 +64,7 @@
     "list.highlightForeground": "#e6c62f",
     "list.hoverBackground": "#17141f",
     "list.inactiveSelectionBackground": "#ae66b618",
-    "list.inactiveSelectionForeground": "#fff",
+    "list.inactiveSelectionForeground": "#ffffff",
     "mergeEditor.change.word.background": "#151920",
     "mergeEditor.conflict.handled.minimapOverViewRuler": "#e6c62f",
     "mergeEditor.conflict.unhandled.minimapOverViewRuler": "#ae66b6",
@@ -75,13 +78,13 @@
     "scrollbarSlider.background": "#4e566680",
     "scrollbarSlider.hoverBackground": "#5a637580",
     "sideBar.background": "#1a1824",
-    "sideBar.foreground": "#fff",
+    "sideBar.foreground": "#ffffff",
     "sideBarSectionHeader.background": "#22052563",
-    "sideBarSectionHeader.foreground": "#fff",
+    "sideBarSectionHeader.foreground": "#ffffff",
     "sideBarTitle.foreground": "#ffffff",
     "statusBar.background": "#81043e",
     "statusBar.debuggingBackground": "#9e8505",
-    "statusBar.foreground": "#fff",
+    "statusBar.foreground": "#ffffff",
     "statusBar.noFolderBackground": "#091e49",
     "statusBarItem.hoverBackground": "#a80451",
     "tab.activeBackground": "#17141f",
@@ -90,7 +93,7 @@
     "tab.hoverBackground": "#220525",
     "tab.inactiveBackground": "#17141f",
     "titleBar.activeBackground": "#240111",
-    "titleBar.activeForeground": "#fff",
+    "titleBar.activeForeground": "#ffffff",
     "titleBar.inactiveBackground": "#17141f",
     "titleBar.inactiveForeground": "#888787",
     "tree.indentGuidesStroke": "#1ee404"
@@ -521,13 +524,13 @@
     {
       "scope": "variable",
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffff"
       }
     },
     {
       "scope": "entity.name.variable",
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -582,7 +585,7 @@
         "meta.jsx.children.tsx"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -617,7 +620,7 @@
         "meta.block.jsx"
       ],
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -758,7 +761,7 @@
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#fff"
+        "foreground": "#ffffff"
       }
     },
     {
